@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" fill="none" stroke="#1e293b" stroke-width="8"/>
+  <!-- Dumbbell -->
+  <g fill="#10b981">
+    <!-- Center bar -->
+    <rect x="136" y="236" width="240" height="40" rx="12"/>
+    <!-- Left weights -->
+    <rect x="96" y="156" width="44" height="200" rx="14"/>
+    <rect x="52" y="186" width="36" height="140" rx="12"/>
+    <!-- Right weights -->
+    <rect x="372" y="156" width="44" height="200" rx="14"/>
+    <rect x="424" y="186" width="36" height="140" rx="12"/>
+  </g>
+  <!-- 366 badge -->
+  <text x="256" y="428" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="800" fill="#f8fafc" text-anchor="middle" letter-spacing="4">366</text>
+</svg>
